@@ -1,4 +1,4 @@
-Course: STAT 3207: Categorical Data Analysis / Econometrics
+Course: STAT 4104: Categorical Data Analysis
 
 Student Name: Md Naeem Islam
 
