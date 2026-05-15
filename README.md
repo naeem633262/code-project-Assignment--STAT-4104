@@ -1,6 +1,6 @@
 Course: STAT 3207: Categorical Data Analysis / Econometrics
 
-Student Name: Naeem
+Student Name: Md Naeem Islam
 
 ID: 12110024
 
